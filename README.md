@@ -6,6 +6,8 @@ Simple and temporary website content for the domain radical.engineering.
 
 #### 21.01.2018
 
+* Added Open Sans Light (under https://www.fontsquirrel.com/license/open-sans license)
+* Added color palette; source: https://coolors.co/f97448-3e4347-14a3e7-0f76a7-094968
 * Added redirect to https/443
 * Added security settings to .htaccess
 * SSL available
