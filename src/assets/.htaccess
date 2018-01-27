@@ -25,3 +25,20 @@ Header set x-xss-protection "1; mode=block"
     RewriteRule ^(.*)$ https://radical.engineering/$1 [r=301,L]
 
 </IfModule>
+
+# Gzip compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css
+</IfModule>
+
+# Gzip compression using mod_filter
+<IfModule mod_filter.c>
+    AddOutputFilterByType DEFLATE "text/css" "text/html"
+</IfModule>
+
+# ETags
+<IfModule mod_headers.c>
+    Header unset ETag
+</IfModule>
+
+FileETag None
