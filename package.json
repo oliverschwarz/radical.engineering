@@ -1,0 +1,23 @@
+{
+  "name": "website-radical.engineering",
+  "description": "A project website on engineering and agile collaboration",
+  "keywords": ["website", "engineering", "blog", "development"],
+  "license": "MIT",
+  "homepage": "https://radical.engineering",
+  "version": "0.1.0",
+  "author": "Oliver Schwarz <oliver.schwarz@gmail.com>",
+  "contributors": [
+    {
+      "name": "Oliver Schwarz",
+      "email": "oliver.schwarz@gmail.com",
+      "url": "https://oliverschwarz.info"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oliverschwarz/radical.engineering"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.1"
+  }
+}

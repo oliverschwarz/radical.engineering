@@ -1,5 +1,5 @@
 node_modules
 .sass-cache
-src/css
 dist/*
+build/*
 .DS_Store
