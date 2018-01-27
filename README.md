@@ -4,6 +4,13 @@ Simple and temporary website content for the domain radical.engineering.
 
 ## Changelog
 
+#### 27.01.2018
+
+* Created branch development
+* Introduced grunt, wrote package.json
+* Removed Open Sans font (could be added again later)
+* Moved sources to directory `src/`
+
 #### 21.01.2018
 
 * Added Open Sans Light (under https://www.fontsquirrel.com/license/open-sans license)
