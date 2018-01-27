@@ -2,6 +2,15 @@
 
 Simple and temporary website content for the domain radical.engineering.
 
+## Todo
+
+* Create build script and structure in Gruntfile.js
+* Introduce sass
+* Introduce html hint
+* Minify css
+* Specify secure and restricting htaccess
+* Include legal imprint
+
 ## Changelog
 
 #### 27.01.2018

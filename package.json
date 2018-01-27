@@ -17,7 +17,14 @@
     "type": "git",
     "url": "https://github.com/oliverschwarz/radical.engineering"
   },
+  "bugs": {
+    "url": "https://github.com/oliverschwarz/radical.engineering/issues"
+  }
   "devDependencies": {
-    "grunt": "~1.0.1"
+    "grunt": "~1.0.1",
+    "grunt-contrib-clean": "~1.1.0",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-htmlhint": "~0.9.13",
+    "matchdep": "latest"
   }
 }
