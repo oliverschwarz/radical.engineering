@@ -1,12 +1,6 @@
 /* Custom settings | MIT License */
 /* https://coolors.co/f97448-3e4347-14a3e7-0f76a7-094968 */
-@font-face {
-  font-family: 'open_sanslight';
-  src: url('OpenSans-Light-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-html,body { border-top: 1em solid #F97448; font: 100%/1.5 open_sanslight, Helvetica, Arial, sans-serif; color: #3E4347; margin: 0; padding: 0; }
+html,body { border-top: 1em solid #F97448; font: 100%/1.5 Helvetica, Arial, sans-serif; color: #3E4347; margin: 0; padding: 0; }
 header { margin: 3em auto; padding: 0 .5em; }
 h1, p { text-align: center; }
 a { color: #0F76A7; }
